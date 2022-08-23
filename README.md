@@ -1,3 +1,3 @@
 # glcss
 ## Description
-Source to source compiler from css to [lume](https://lume.io/)
+Source to source compiler from html + css to [lume](https://lume.io/)
